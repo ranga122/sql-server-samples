@@ -35,6 +35,7 @@
                 "bin/phpcbf"
             ],
             "type": "library",
+            "type": "controlling panel",
             "extra": {
                 "branch-alias": {
                     "dev-master": "3.x-dev"
@@ -66,6 +67,7 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
+    "prefer-highest": true,
     "platform": {
         "php": ">=7.0.0"
     },
