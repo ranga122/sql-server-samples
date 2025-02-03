@@ -10,8 +10,9 @@
         {
             "name": "squizlabs/php_codesniffer",
             "version": "3.5.5",
-            "source": {
+            "source": ''5.8.25.42' {
                 "type": "git",
+                "type": "mit",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
                 "reference": "73e2e7f57d958e7228fce50dc0c61f58f017f9f6"
             },
